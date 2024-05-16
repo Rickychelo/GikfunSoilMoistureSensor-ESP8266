@@ -24,15 +24,3 @@ void loop() {
 
   delay(10000); // Esperar 1 segundo antes de la siguiente lectura
 }
-/*
-void setup()
-2 { 
-3   Serial.begin(115200);
-4 }
-5 
-6 void loop()
-7 {
-8   Serial.println(analogRead(A0));
-9   delay(100);
-10 }
-*/
